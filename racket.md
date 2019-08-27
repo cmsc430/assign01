@@ -8,7 +8,7 @@ Matthias Felleisen at Rice University.  It was first developed by
 Felleisen's graduate students: Matthew Flatt, Robby Findler, Shriram
 Krishnamurthi, and Cormac Flannagan.  It is now developed by a large
 [team](https://racket-lang.org/team.html) of researchers, volunteers,
-and practioners.
+and practitioners.
 
 ## Why
 
@@ -17,7 +17,7 @@ for teaching introductory university-level programming courses.  It is
 still used for this purpose, but has also served as a major research
 platform for programming language research and has been used in
 several notable industrial projects.  It is unique in its
-metaprogramming facilities, making it a plaform suitable for langauge
+metaprogramming facilities, making it a platform suitable for language
 engineering and prototyping.
 
 ## Examples
